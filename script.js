@@ -1,4 +1,4 @@
-alert("hello!");
+
 score = 0;
 cross = true;
 
